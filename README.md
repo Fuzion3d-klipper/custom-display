@@ -66,7 +66,7 @@ Para habilitar las personalizaciones, deberás incluir estos archivos en tu prin
 ---
 
 <p align="center">
-  <img src="gn.jfif" alt="LCDdd" width="700"/>
+  <img src="gn.jfif" alt="LCDdd" width="400"/>
 </p>
 
 
