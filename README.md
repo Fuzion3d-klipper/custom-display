@@ -1,5 +1,10 @@
 # 🖥️🔧 Personalización del Display ST7920 en Ender 3 con Klipper
 
+
+<p align="center">
+  <img src="gife.gif alt="LCD" width="1000"/>
+</p>
+
 Este repositorio proporciona archivos de configuración (`.cfg`) para personalizar la pantalla LCD **ST7920** original de la **Ender 3** con **Klipper**. Gracias a estos ajustes, el display monocromático podrá:
 
 ✅ **Mostrar datos en tiempo real** de la impresión.  
