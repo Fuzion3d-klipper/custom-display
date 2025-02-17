@@ -14,7 +14,7 @@ Este repositorio proporciona archivos de configuración (`.cfg`) para personaliz
 
 ---
 ## Descarga el RAR que contiene los cfg
-[![Miniatura del video](rae.jpg)](cfg-s.rar)
+[![Miniatura del video](/rae.jpeg)](cfg-s.rar)
 
 
 ## 📌 Verifica la compatibilidad  
