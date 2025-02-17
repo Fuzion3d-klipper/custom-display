@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="gife.gif alt="LCD" width="1000"/>
+  <img src="gife.gif" alt="LCD" width="1000"/>
 </p>
 
 Este repositorio proporciona archivos de configuración (`.cfg`) para personalizar la pantalla LCD **ST7920** original de la **Ender 3** con **Klipper**. Gracias a estos ajustes, el display monocromático podrá:
