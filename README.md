@@ -58,7 +58,7 @@ Para habilitar las personalizaciones, deberás incluir estos archivos en tu prin
 
 ```
 <p align="center">
-  <img src="jij.jpg" alt="LCDdvvd" width="400"/>
+  <img src="jij.png" alt="LCDdvvd" width="400"/>
 </p>
 
 📂 Agrega los archivos .cfg en tu panel dnde tambien esta el ##printer.cfg##
