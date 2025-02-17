@@ -19,7 +19,7 @@ Este repositorio proporciona archivos de configuración (`.cfg`) para personaliz
 Antes de comenzar, asegúrate de que tu pantalla es compatible. Debes agregar las siguientes líneas a tu `printer.cfg` si aún no están incluidas:
 
 <p align="center">
-  <img src="fbd.png" alt="LCD" width="400"/>
+  <img src="jij.png" alt="LCD" width="400"/>
 </p>
 
 
