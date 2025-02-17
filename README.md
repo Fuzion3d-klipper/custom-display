@@ -13,6 +13,8 @@ Este repositorio proporciona archivos de configuración (`.cfg`) para personaliz
 
 Antes de comenzar, asegúrate de que tu pantalla es compatible. Debes agregar las siguientes líneas a tu `printer.cfg` si aún no están incluidas:
 
+
+## 📌 Verifica la compatibilidad  Placa SKR E3 V2
 ```ini
 [display]
 lcd_type: st7920                       # Tipo de pantalla LCD utilizado
@@ -23,8 +25,19 @@ encoder_pins: ^EXP1_5, ^EXP1_3         # Pines del codificador rotativo para el 
 click_pin: ^!EXP1_2                    # Pin de clic para el codificador (botón)
 ```
 
+## 📌 Verifica la compatibilidad  Placa original 4.2.2/4.2.7
+```ini
+[display] # RET6 12864 LCD
+lcd_type: st7920
+cs_pin: PB12
+sclk_pin: PB13
+sid_pin: PB15
+encoder_pins: ^PB14, ^PB10
+click_pin: ^!PB2
+```
+💡 Si no funciona puede buscar los datos en google
 
-
+---
 
 📂 Archivos de configuración incluidos
 Para habilitar las personalizaciones, deberás incluir estos archivos en tu printer.cfg:
@@ -36,15 +49,31 @@ Para habilitar las personalizaciones, deberás incluir estos archivos en tu prin
 
 ```
 
+📂 Agrega los archivos .cfg en tu panel dnde tambien esta el ##printer.cfg##
+
+---
 
 💡 Edición y personalización
 Los archivos .cfg de este repositorio son totalmente editables, lo que te permite modificar su contenido y apariencia según tus necesidades. Sin embargo, es importante mantener la estructura del código para evitar errores en la interfaz del display.
 
+---
+
 🎨 Personalización del Splash Screen
 También puedes cambiar la imagen de inicio (splash screen) del display, editando el archivo correspondiente en custom_display.cfg.
 
-📢 Conéctate conmigo 📢
-🔗 TikTok: Fuzion3D
-📸 Instagram: Fuzion3D Crea
-🎥 YouTube: Fuzion3D Crea
-💬 WhatsApp: Klipperianos Whatsapp
+---
+---
+---
+
+## 🔗 Recursos y Créditos
+- 📄 [Documentación oficial de Klipper](https://www.klipper3d.org/)
+- 💬 Soporte en [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
+
+## 📢 Conéctate conmigo 📢
+
+- 🔗 **TikTok:** [Fuzion3D](https://www.tiktok.com/@fuzion3d)
+- 📸 **Instagram:** [Fuzion3D Crea](https://www.instagram.com/fuzion3dcrea)
+- 🎥 **YouTube:** [Fuzion3D Crea](https://youtube.com/@fuzion3dcrea)
+- 💬 **WhatsApp:** [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
+
+Si encuentras útil esta macro, ⭐ ¡dale una estrella a este repositorio en GitHub! 🚀
