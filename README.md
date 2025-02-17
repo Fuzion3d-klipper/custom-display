@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="gife.gif" alt="LCD" width="500"/>
+  <img src="gife.gif" alt="LCD" width="700"/>
 </p>
 
 Este repositorio proporciona archivos de configuración (`.cfg`) para personalizar la pantalla LCD **ST7920** original de la **Ender 3** con **Klipper**. Gracias a estos ajustes, el display monocromático podrá:
@@ -17,6 +17,10 @@ Este repositorio proporciona archivos de configuración (`.cfg`) para personaliz
 ## 📌 Verifica la compatibilidad  
 
 Antes de comenzar, asegúrate de que tu pantalla es compatible. Debes agregar las siguientes líneas a tu `printer.cfg` si aún no están incluidas:
+
+<p align="center">
+  <img src="fbd.jfif" alt="LCD" width="400"/>
+</p>
 
 
 ## 📌 Verifica la compatibilidad  Placa SKR E3 V2
@@ -53,10 +57,18 @@ Para habilitar las personalizaciones, deberás incluir estos archivos en tu prin
 [include custom_display.cfg] # Personalización avanzada del display
 
 ```
+<p align="center">
+  <img src="jij.jpg" alt="LCD" width="400"/>
+</p>
 
 📂 Agrega los archivos .cfg en tu panel dnde tambien esta el ##printer.cfg##
 
 ---
+
+<p align="center">
+  <img src="gn.jfif" alt="LCD" width="700"/>
+</p>
+
 
 💡 Edición y personalización
 Los archivos .cfg de este repositorio son totalmente editables, lo que te permite modificar su contenido y apariencia según tus necesidades. Sin embargo, es importante mantener la estructura del código para evitar errores en la interfaz del display.
