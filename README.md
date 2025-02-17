@@ -13,6 +13,9 @@ Este repositorio proporciona archivos de configuración (`.cfg`) para personaliz
 ✅ **Incluir un splash screen editable** con la imagen de inicio que prefieras.  
 
 ---
+## Descarga el RAR que contiene los cfg
+[![Miniatura del video](rae.jpg)](cfg-s.rar)
+
 
 ## 📌 Verifica la compatibilidad  
 
