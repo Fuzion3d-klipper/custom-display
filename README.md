@@ -14,7 +14,7 @@ Este repositorio proporciona archivos de configuración (`.cfg`) para personaliz
 
 ---
 ## Descarga el RAR que contiene los cfg
-[![CFGs](/rae.jpeg)]([cfg-s.zip])
+[![CFGs](/rae.jpeg)]([/cfg-s.zip])
 
 
 ## 📌 Verifica la compatibilidad  
