@@ -14,7 +14,9 @@ Este repositorio proporciona archivos de configuración (`.cfg`) para personaliz
 
 ---
 ## Descarga el RAR que contiene los cfg
-[![CFGs](/rae.jpeg)]([/cfg-s.zip])
+
+[![CFG](/rae.jpg)](https://github.com/Fuzion3d-klipper/custom-display/raw/refs/heads/main/cfg-s.zip)
+
 
 
 ## 📌 Verifica la compatibilidad  
